@@ -171,6 +171,7 @@ chmod +x deploy.sh && bash deploy.sh
 -   TLS-Shunt-Proxy：`/etc/tls-shunt-proxy/config.yaml`
 -   Trojan-Go：`/etc/trojan-go/config.json`
 -   V2Ray：`/etc/v2ray/config.json`
+-   證書文件存放位置: `/etc/ssl` # SiemensTutorials 視頻教程中的補充
 
 ## 致谢
 
